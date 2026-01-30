@@ -2,6 +2,7 @@
 Mi primer repositorio en GitHub
 
 ## Sprint 1: Python Basico I
+En este Sprint aprendimos sobre Listas.
 
 ## Sprint 2: Python Basico II
 En este Sprint aprendimos Bucles y Condicionales
