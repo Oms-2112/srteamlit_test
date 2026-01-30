@@ -8,6 +8,7 @@ En este Sprint aprendimos sobre Listas.
 En este Sprint aprendimos Bucles y Condicionales
 
 ## Sprint 3: Procesamiento de Datos I
+En este Sprint aprendimos las siguientes librerías:
 
 ## Sprint 4: Procesamiento de Datos II
 
